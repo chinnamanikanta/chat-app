@@ -1,0 +1,44 @@
+
+.users-list-contanier {
+    width:40%;
+    border: 1 px solid orange;
+}
+
+.user-title {
+    font-size:30px;
+    font-family: sans-serif;
+    margin-left:40px;
+    margin-top:30px;
+    color:#0247fe;
+    font-weight: 600;
+}
+.users-list-header {
+    display: flex;
+}
+.users-list {
+    margin-left:40px;
+    margin-top:30px;
+    height:500px;
+    overflow: auto;
+}
+
+.each-user {
+   
+    margin-top:10px;
+    display: flex;
+    height:50px;
+    cursor: pointer;
+
+}
+
+.delete-icon {
+    margin-left:auto;
+    margin-right:20px;
+    cursor:pointer;
+}
+.user-name {
+    font-size:20px;
+    color:#0247fe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:25px;
+}

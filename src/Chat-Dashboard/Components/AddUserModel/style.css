@@ -1,0 +1,16 @@
+.adding-user-header {
+    display: flex;
+}
+
+.close-icon {
+    margin-left:auto;
+    margin-top:20px;
+    cursor:pointer;
+}
+.h2-header {
+    color:#0247fe
+}
+.user-icon {
+    margin-top:20px;
+    margin-left:47%;
+}

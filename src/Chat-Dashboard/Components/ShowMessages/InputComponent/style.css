@@ -1,0 +1,9 @@
+.message-input-box {
+border: none;
+  margin-left: 29px;
+  height: 40px;
+  width: 700px;
+  outline: none;
+  cursor: pointer;
+  font-size:20px
+}
